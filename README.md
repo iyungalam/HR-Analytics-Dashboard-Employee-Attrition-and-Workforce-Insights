@@ -27,9 +27,9 @@ Business dashboard proyek ini dibuat menggunakan Google Looker Studio dengan men
 
 
 Dashboard dibuat dengan menggunakan Google Looker Studio. Dashboard dapat diakses pada link berikut ini:
-```
+
 https://lookerstudio.google.com/reporting/e6097218-26aa-4923-b213-27dd7aa18fb7
-```
+
 ## Conclusion
 
 - Secara total keseluruhan terdapat 1058 karyawan yang bekerja
