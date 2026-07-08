@@ -1,10 +1,8 @@
-# Human 
+# HR Analytics Dashboard: Employee Attrition and Workforce Insights
 ## Business Understanding
+Seiring dengan pertumbuhan perusahaan, pengelolaan sumber daya manusia menjadi semakin kompleks, salah satunya ditandai dengan tingginya tingkat employee attrition. Berdasarkan data yang tersedia, perusahaan mencatat attrition rate sebesar 17%, melampaui ambang batas ideal sebesar 10%. Kondisi ini berpotensi meningkatkan biaya rekrutmen dan pelatihan, mengganggu produktivitas, serta memengaruhi stabilitas operasional perusahaan.
+Untuk membantu perusahaan memahami penyebab tingginya attrition, dikembangkan sebuah HR Analytics Dashboard yang menyajikan analisis komprehensif mengenai karakteristik tenaga kerja, distribusi karyawan, dan pola attrition berdasarkan berbagai faktor, seperti jenis kelamin, status pernikahan, tingkat pendidikan, departemen, bidang studi, jabatan, tingkat gaji, level pekerjaan, dan status lembur (overtime). Dashboard ini diharapkan dapat mendukung pengambilan keputusan berbasis data dalam menyusun strategi retensi karyawan yang lebih efektif.
 
-Jaya Jaya Maju merupakan salah satu perusahaan multinasional yang telah berdiri sejak tahun 2000. Ia memiliki lebih dari 1000 karyawan yang tersebar di seluruh penjuru negeri. Walaupun telah menjadi menjadi perusahaan yang cukup besar, Jaya Jaya Maju masih cukup kesulitan dalam mengelola karyawan. Hal ini berimbas tingginya attrition rate (rasio jumlah karyawan yang keluar dengan total karyawan keseluruhan) hingga lebih dari 10%.
-
-### Permasalahan Bisnis
-Permasalahan bisnis yang dihadapi adalah tingginya nilai attrition rate perusahaan Jaya Jaya Maju yang mencapai lebih dari 10%. Nilai Attrition Rate ini menunjukkan banyaknya karyawan yang memutuskan resign dibanding karyawan yang memutuskan untuk terus bekerja diperusahaan tersebut. Banyaknya karyawan yang keluar akan menyebabkan pekerjaan yang sudah berjalan menjadi tertunda, pekerjaan yang harusnya dikerjakan oleh seseorang malah harus tertunda atau dilimpahkan ke pekerja lain agar pekerjaan tersebut bisa selesai. Pekerja yang mendapat beban kerja tambahan akan menyelesaikan pekerjaannya menjadi sedikit lebih lama sehingga alur kerja dalam perusahaan menjadi melambat. Untuk mengetahui hal-hal yang menyebabkan tingginya attrition rate, kita perlu mencari tahu terlebih dahulu faktor faktor yang menyebabkan tingginya attrition rate. Faktor faktor ini bisa berasal baik dari dalam perusahaan seperti fasilitas dan bebam kerja yang diberikan kepada karyawan maupun dari karyawan itu sendiri seperti dari mana dia berasal. Faktor-faktor inilah yang kemudian dipantau dan dijaga nilainya agar nilai attrition rate dapat terus ditekan.
 ### Cakupan Proyek
 1. Membersihkan dan mengolah data awal
 2. Menganalisis faktor-faktor yang menyebabkan tingginya Attrition Rate dengan menjawab pertanyaan pada exploratory data analysis dan visualisasi data
@@ -27,7 +25,7 @@ Business dashboard proyek ini dibuat menggunakan Google Looker Studio dengan men
 
 Link DASHBOARD:
 
-https://lookerstudio.google.com/reporting/e6097218-26aa-4923-b213-27dd7aa18fb7
+https://datastudio.google.com/reporting/e6097218-26aa-4923-b213-27dd7aa18fb7
 
 ## Conclusion
 
